@@ -28,11 +28,11 @@ Este proyecto es que genera un listado de proxys gratuitos y categorizados para 
    cd proxylist
    ./proxy-list -h
 
-  usage: proxy-list.py [-h] [-n NUMERO]
+   usage: proxy-list.py [-h] [-n NUMERO]
 
-  Obtener una lista de proxies gratuitos.
+   Obtener una lista de proxies gratuitos.
 
-  options:
-    -h, --help            show this help message and exit
-    -n NUMERO, --numero NUMERO
+   options:
+     -h, --help            show this help message and exit
+     -n NUMERO, --numero NUMERO
                         Numero de proxies a mostrar (por defecto se muestran todos.)
